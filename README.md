@@ -14,4 +14,5 @@ Efficiency: Reduced manual reporting time by 28 hours per month.
 
 Accuracy: Eliminated regional data discrepancies through standardized logic.
 
-NOTE: Due to strict data privacy and corporate compliance policies, specific dashboard visuals are not displayed to protect sensitive HR information.
+## NOTE: Due to strict data privacy and corporate compliance policies, specific dashboard visuals are not displayed to protect sensitive HR information.
+
