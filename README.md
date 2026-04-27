@@ -14,5 +14,5 @@ Efficiency: Reduced manual reporting time by 28 hours per month.
 
 Accuracy: Eliminated regional data discrepancies through standardized logic.
 
-# Note: Due to strict data privacy, the data has been blurred 
+### Note: Due to strict data privacy, the data has been blurred 
 
